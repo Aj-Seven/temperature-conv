@@ -20,12 +20,12 @@
 
 #### Live Demo [here](https://temperature-conv.pages.dev)
 
-<details align="center">
+<details>
 <summary> Images </summary>
-
-![tempc](https://user-images.githubusercontent.com/89263112/224538155-ff5b0da3-be6c-4a46-875c-49ce2caff2bf.jpg)
-![tempf](https://user-images.githubusercontent.com/89263112/224538166-f5971487-2272-49c9-a875-9b4dd50757b0.jpg)
-![tempk](https://user-images.githubusercontent.com/89263112/224538175-bf9d5643-0d0e-4e93-a666-85c37316f2a1.jpg)
+  
+Celsius to Fahrenheit & Kelvin |  Fahrenhet to Celsius & Kelvin  |     Kelvin to Fahrenheit & Celsius
+:------------------------------:|:----------------------------:|:---------------------------------|
+![tempc](https://user-images.githubusercontent.com/89263112/224538155-ff5b0da3-be6c-4a46-875c-49ce2caff2bf.jpg) | ![tempf](https://user-images.githubusercontent.com/89263112/224538166-f5971487-2272-49c9-a875-9b4dd50757b0.jpg) | ![tempk](https://user-images.githubusercontent.com/89263112/224538175-bf9d5643-0d0e-4e93-a666-85c37316f2a1.jpg)
 
 </details>
 
