@@ -18,7 +18,7 @@
 ----
 
 
-#### Live Demo [here](https://temperature-conv.pages.dev)
+#### Live Demo [here](https://aj-seven.github.io/temperature-conv/)
 
 <details>
 <summary> Images </summary>
